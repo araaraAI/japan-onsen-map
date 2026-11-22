@@ -4,6 +4,8 @@
 
 **地図を開く → https://araaraai.github.io/japan-onsen-map/**
 
+関連: [関西釣りマップ](https://araaraai.github.io/kansai-fishing-map/)／[キャンプ・車中泊マップ](https://araaraai.github.io/japan-camp-map/)
+
 ## 見られること
 
 - **全国百名湯**: 松田忠徳『日本百名湯』の100湯。泉質・効能・代表的な日帰り施設の料金と営業時間・最寄りの道の駅とRVパーク
